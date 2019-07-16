@@ -1,0 +1,23 @@
+div.sixtyone{
+	background-color: black;
+	width: 925px;
+	height: 550px;
+	opacity: 0.3;
+	transform: translate(330px, -1150px);}
+	div.sixtytwo{
+overflow: scroll;
+width: 925px;
+height: 550px;
+transform: translate(330px, -1700px);}
+img.twenty{
+transform: translate(100px, 0px);}
+img.twentyone{
+transform: translate(0px, 100px);}
+img.twentytwo{
+transform: translate(100px, 100px);}
+img.twentythree{
+transform: translate(0px, 200px);}
+img.twentyfour{
+transform: translate(100px, 200px);}
+img.twentyfive{
+transform: translate(0px, 300px);}

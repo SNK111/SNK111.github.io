@@ -1,0 +1,30 @@
+div.six{
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-color: white;
+background: radial-gradient(white, #cf8702);
+transform: translate(0px, -1080px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+div.seven{
+transform: translate(-10px, -1115px);
+font-family: Monotype Corsiva;
+font-size: 16pt;	
+height: 25px;}
+div.sixtyone{
+background-color: black;
+width: 925px;
+height: 550px;
+opacity: 0.3;
+transform: translate(330px, -1150px);}
+div.karta{
+width: 925px;
+height: 550px;
+transform: translate(330px, -1700px);}
+div.kartaone{
+transform: translate(25px, 25px);}
+div.kartatwo{
+	color: #ffffff;
+font-size: 13pt;
+font-family: Century Gothic;
+transform: translate(0px, -20px);}

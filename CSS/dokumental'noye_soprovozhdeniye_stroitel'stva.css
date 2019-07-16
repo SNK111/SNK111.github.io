@@ -1,0 +1,35 @@
+div.six{
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-color: white;
+background: radial-gradient(white, #cf8702);
+transform: translate(0px, -1080px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+div.seven{
+transform: translate(-10px, -1115px);
+font-family: Monotype Corsiva;
+font-size: 16pt;	
+height: 25px;}
+div.sixty{
+	width: 925px;
+	height: 500px;
+transform: translate(330px, -2050px);
+overflow: scroll;}
+div.sixtyone{
+	background-color: black;
+	width: 925px;
+	height: 500px;
+	opacity: 0.3;
+	transform: translate(330px, -1550px);}
+div.sixtytwo{
+color: #ffffff;
+font-size: 13pt;
+font-family: Century Gothic;
+transform: translate(30px, 20px);}
+div.sixtythree{
+	text-decoration: underline;
+font-size: 15pt;
+transform: translate(-15px, -5px);}
+div.sixtyseven{
+font-style: oblique;}

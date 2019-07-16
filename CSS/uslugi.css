@@ -1,0 +1,119 @@
+	div.seven{
+border-top-style: solid;
+border-bottom-style: solid;
+border-color: white;
+background: radial-gradient(white, #cf8702);
+transform: translate(0px, -1080px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+div.six{
+transform: translate(0px, -1095px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+div.thirty{
+	background-color: black;
+	opacity: 0.3;
+	width: 420px;
+	height: 230px;
+}
+div.thirtyone{
+	background-color: black;
+	opacity: 0.3;
+	width: 420px;
+	height: 230px;
+transform: translate(0px, 20px);}
+	div.thirtytwo{
+	background-color: black;
+	opacity: 0.3;
+	width: 420px;
+	height: 230px;
+	transform: translate(450px, -460px);}
+	
+	div.thirtythree{
+	background-color: black;
+	opacity: 0.3;
+	width: 420px;
+	height: 230px;
+	transform: translate(450px, -440px);}
+	
+div.thirtyfour{
+	width: 900px;
+	height: 500px;
+transform: translate(350px, -1130px);
+overflow: scroll;}
+div.thirtyfive{
+	background-color: black;
+	opacity: 0.3;
+	width: 420px;
+height: 230px;
+transform: translate(0px, -420px);}
+div.thirtysix{
+	background-color: black;
+	opacity: 0.3;
+	width: 420px;
+height: 230px;
+transform: translate(0px, -400px);}
+div.thirtyseven{
+	background-color: black;
+	opacity: 0.3;
+	width: 420px;
+height: 230px;
+transform: translate(450px, -880px);}
+div.thirtyeight{
+	background-color: black;
+	opacity: 0.3;
+	width: 420px;
+height: 230px;
+transform: translate(450px, -860px);}
+
+a.two{
+	height: 100px;
+	width: 100px;
+	display: block;
+color: #ffffff;
+text-decoration: underline;
+font-size: 20pt;
+font-family: Century Gothic;}
+div.thirtynine{
+padding-top: 70px;
+width: 420px;
+height: 160px; 
+transform: translate(0px, -1840px);}	
+div.fourty{
+	padding-top: 70px;
+width: 420px;
+height: 160px; 
+	transform: translate(-0px, -1790px);}
+	div.fourtyone{
+		padding-top: 70px;
+width: 420px;
+height: 160px; 
+	transform: translate(0px, -1740px);}
+	div.fourtytwo{
+		padding-top: 70px;
+width: 420px;
+height: 160px;
+	transform: translate(-0px, -1690px);}
+	div.fourtythree{
+	padding-top: 70px;
+width: 420px;
+height: 160px; 
+	transform: translate(450px, -1940px);}
+	div.fourtyfour{
+		padding-top: 70px;
+width: 420px;
+height: 160px;
+	transform: translate(450px, -1890px);}
+	div.fourtyfive{
+		padding-top: 70px;
+width: 420px;
+height: 160px;
+	transform: translate(450px, -1840px);}
+	div.fourtysix{
+		padding-top: 70px;
+width: 420px;
+height: 160px;
+	transform: translate(450px, -1790px);}
+	div.fourtyseven{
+width: 900px;
+	height: 500px;}
