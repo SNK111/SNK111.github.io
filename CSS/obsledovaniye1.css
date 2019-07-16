@@ -1,0 +1,35 @@
+div.obsledovanie{
+transform: translate(0px, 450px);} 
+div.seven{
+border-top-style: solid;
+border-bottom-style: solid;
+border-color: white;
+background: radial-gradient(white, #cf8702);
+transform: translate(0px, -1080px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+div.six{
+transform: translate(0px, -1095px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+div.sixty{
+	background-color: black;
+	opacity: 0.3;
+	width: 250px;
+height: 50px;
+transform: translate(600px, -1550px);}
+div.sixtyone{
+	color: #ffffff;
+text-decoration: underline;
+font-size: 17pt;
+font-family: Century Gothic;
+transform: translate(625px, -1590px);}
+img.four{
+	transform: translate(470px, -1550px);
+	width: 500px;}
+div.sixtytwo{
+color: #ffffff;
+font-size: 14pt;
+font-family: Century Gothic;
+	transform: translate(380px, -1550px);
+	width: 1000px;}

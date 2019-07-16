@@ -1,0 +1,35 @@
+body{
+overflow: hidden:;}
+div.three{
+	opacity: 0.3;
+	width: 920px;
+	height: 400px;
+	background-color: black;
+	transform: translate(310px, -1050px);}
+	div.twenty{
+	transform: translate(310px, -1435px);}
+	img.one{
+	padding-left: 15px;
+padding-top: 5px;
+width: 150px;}
+div.nine{
+	color: #ffffff;
+padding-left: 15px;}
+div.five{
+line-height:1.1em;
+	color: #ffffff;
+	transform: translate(200px, -275px);
+	font-size: 14pt;}
+	div.six{
+border-top-style: solid;
+border-bottom-style: solid;
+border-color: white;
+background: radial-gradient(white, #cf8702);
+transform: translate(0px, -1580px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+div.seven{
+transform: translate(0px, -1615px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+

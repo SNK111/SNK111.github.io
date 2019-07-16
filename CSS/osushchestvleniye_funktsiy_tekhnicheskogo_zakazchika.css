@@ -1,0 +1,56 @@
+	div.seven{
+border-top-style: solid;
+border-bottom-style: solid;
+border-color: white;
+background: radial-gradient(white, #cf8702);
+transform: translate(0px, -1580px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+div.six{
+transform: translate(0px, -1595px);
+font-family: Monotype Corsiva;
+font-size: 16pt;}
+	
+div.sixty{
+	width: 925px;
+	height: 500px;
+transform: translate(330px, -1600px);
+overflow: scroll;}
+div.sixtyone{
+	background-color: black;
+	width: 925px;
+	height: 500px;
+	opacity: 0.3;
+	transform: translate(330px, -1100px);}
+div.sixtytwo{
+color: #ffffff;
+font-size: 13pt;
+font-family: Century Gothic;
+transform: translate(30px, 20px);}
+div.sixtythree{
+	text-decoration: underline;
+font-size: 17pt;
+transform: translate(-20px, -5px);}
+div.sixtyfour{
+	font-size: 15pt;
+	font-weight: 900;
+	padding-bottom: 5px;
+padding-top: 10px;}
+div.sixtyfive{
+font-size: 15pt;
+font-weight: 900;
+padding-bottom:}
+div.sixtysix{
+	padding-top: 2px;
+padding-bottom: 2px;}
+div.sixtyseven{
+font-style: oblique;}
+div.sixtyeight{
+font-size: 15pt;
+font-weight: 900;
+padding-top: 10px;}
+div.sixtynine{
+font-size: 16pt;}
+div.seventy{
+	font-size:12pt;
+font-weight: 900;}
