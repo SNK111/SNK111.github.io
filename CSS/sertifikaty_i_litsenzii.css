@@ -1,10 +1,14 @@
+div.liniya{
+transform: translate(0px, 980px);}
+div.block{
+transform: translate(0px, 130px);}
 div.sixtyone{
-	background-color: black;
-	width: 925px;
-	height: 550px;
-	opacity: 0.3;
-	transform: translate(330px, -1150px);}
-	div.sixtytwo{
+background-color: black;
+width: 925px;
+height: 550px;
+opacity: 0.3;
+transform: translate(330px, -1150px);}
+div.sixtytwo{
 overflow: scroll;
 width: 925px;
 height: 550px;

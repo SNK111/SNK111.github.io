@@ -1,17 +1,7 @@
+div.liniya{
+	transform: translate(0px, 480px);} 
 div.obsledovanie{
-transform: translate(0px, 450px);} 
-div.seven{
-border-top-style: solid;
-border-bottom-style: solid;
-border-color: white;
-background: radial-gradient(white, #cf8702);
-transform: translate(0px, -1080px);
-font-family: Monotype Corsiva;
-font-size: 16pt;}
-div.six{
-transform: translate(0px, -1095px);
-font-family: Monotype Corsiva;
-font-size: 16pt;}
+transform: translate(0px, 550px);} 
 div.sixty{
 	background-color: black;
 	opacity: 0.3;

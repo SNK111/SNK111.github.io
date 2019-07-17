@@ -1,15 +1,5 @@
-	div.seven{
-border-top-style: solid;
-border-bottom-style: solid;
-border-color: white;
-background: radial-gradient(white, #cf8702);
-transform: translate(0px, -1080px);
-font-family: Monotype Corsiva;
-font-size: 16pt;}
-div.six{
-transform: translate(0px, -1095px);
-font-family: Monotype Corsiva;
-font-size: 16pt;}
+div.liniya{
+transform: translate(0px, 480px);}
 div.thirty{
 	background-color: black;
 	opacity: 0.3;
@@ -39,7 +29,7 @@ transform: translate(0px, 20px);}
 div.thirtyfour{
 	width: 900px;
 	height: 500px;
-transform: translate(350px, -1130px);
+transform: translate(350px, -1000px);
 overflow: scroll;}
 div.thirtyfive{
 	background-color: black;

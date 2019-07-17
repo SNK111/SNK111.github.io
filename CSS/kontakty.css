@@ -1,16 +1,7 @@
-div.six{
-	border-top-style: solid;
-	border-bottom-style: solid;
-	border-color: white;
-background: radial-gradient(white, #cf8702);
-transform: translate(0px, -1080px);
-font-family: Monotype Corsiva;
-font-size: 16pt;}
-div.seven{
-transform: translate(-10px, -1115px);
-font-family: Monotype Corsiva;
-font-size: 16pt;	
-height: 25px;}
+div.liniya{
+transform: translate(0px, 980px);}
+div.block{
+transform: translate(0px, 130px);}
 div.sixtyone{
 background-color: black;
 width: 925px;

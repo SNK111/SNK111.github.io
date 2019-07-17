@@ -1,8 +1,5 @@
-body{
-	width: 660px;
-height: 500px;
-
-margin: 0; }
+div.rabota{
+transform: translate(0px, 100px);} 
 ul.one{
 margin: 0; 	
 transform: translate(0px, -640px);}	
@@ -138,22 +135,6 @@ font-size: 23pt;
 font-family: Monotype Corsiva;}
 a.ten{
 	text-decoration: none;}
-div.six{
-	width: 1263px;
-	border-top-style: solid;
-	border-bottom-style: solid;
-	border-color: white;
-background: radial-gradient(white, #cf8702);
-transform: translate(0px, -1950px);
-font-family: Monotype Corsiva;
-font-size: 16pt;	
-height: 25px;
-width: 1500px;}
-div.seven{
-transform: translate(600px, -1975px);
-font-family: Monotype Corsiva;
-font-size: 16pt;	
-height: 25px;}
 div.sixty{
 	background-color: black;
 	opacity: 0.3;
