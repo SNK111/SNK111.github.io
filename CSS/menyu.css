@@ -1,20 +1,5 @@
 body{
 margin: 0px;}
-div.six{
-	padding-left: 100px;
-width: 1300px;
-border-top-style: solid;
-border-bottom-style: solid;
-border-color: white;
-background: radial-gradient(white, #cf8702);
-transform: translate(200px, -1580px);
-font-family: Monotype Corsiva;
-font-size: 16pt;}
-div.seven{
-transform: translate(0px, -1615px);
-font-family: Monotype Corsiva;
-font-size: 16pt;}
-
 p.twenty{
 font-family: Monotype Corsiva;
 transform: translate(0px, 0px);
